@@ -2,7 +2,7 @@
 
 
 clear
-cd /home/ewa/bash_task3/
+cd /home/ewa/bash/
 
 xml=$(cat systemstats.xml)
 
@@ -43,5 +43,3 @@ git checkout details
 git add .
 git commit -m "report2"
 git push origin details
-Contact GitHub API Training Shop Blog About
-© 2017 GitHub, Inc. Terms Privacy Security Status Help
